@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amigo Secreto</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Merriweather:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <main class="container">
+    <header class="header-banner">
+      <h1 class="main-title">🎁 Amigo Secreto</h1>
+    </header>
+
+    <section class="input-section">
+      <h2 class="section-title">Adicione seus amigos</h2>
+      <div class="input-wrapper">
+        <input 
+          type="text" 
+          id="amigo" 
+          class="input-name" 
+          placeholder="Digite um nome"
+          aria-label="Digite o nome do amigo"
+        >
+        <button class="button-add" onclick="adicionarAmigo()">Adicionar</button>
+      </div>
+
+      <p id="mensagem" class="mensagem"></p>
+
+      <ul id="listaAmigos" class="name-list"></ul>
+      <ul id="resultado" class="result-list" aria-live="polite"></ul>
+
+      <div class="button-container">
+        <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
+          <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" fill="currentColor"><path d="M8 5v14l11-7Z"/></svg>
+          Sortear amigo
+        </button>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>Projeto desenvolvido com ❤️ para treinar <strong>JavaScript, HTML e CSS</strong></p>
+    </footer>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
