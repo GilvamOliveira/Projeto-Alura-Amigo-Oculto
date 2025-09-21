@@ -20,14 +20,11 @@
 
 📂 Estrutura do Projeto
 
-  /Challenge_Amigo_Secreto
-  │
-  ├── index.html    # Estrutura da página
-  ├── style.css     # Estilos visuais
-  ├── app.js        # Lógica de funcionamento
-  ├── assets/
-  │   └── bg.jpg    # Imagem de fundo
-  └── README.md     # Documentação
+  /Challenge_Amigo_Secreto -> index.html # Estrutura da página
+                           -> style.css # Estilos visuais
+                           -> app.js # Lógica de funcionamento
+                           -> assets/bg.jpg # Imagem de fundo
+                           -> README.md # Documentação
 
 ▶️ Como usar
 
