@@ -44,7 +44,7 @@
   •	Envio automático do resultado por e-mail
 
 👨‍💻 Autor
- └── Gilvam Oliveira
+- Gilvam Oliveira
 
 👉 https://github.com/GilvamOliveira
 👉 https://www.linkedin.com/in/gilvam-oliveira/
