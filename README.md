@@ -47,9 +47,6 @@ O projeto não possui dependências nem etapa de build.
 - Exportação dos resultados em PDF
 - Envio dos resultados por e-mail
 
-## Autor
+---
 
-Gilvam Oliveira
-
-- GitHub: [github.com/GilvamOliveira](https://github.com/GilvamOliveira)
-- LinkedIn: [linkedin.com/in/gilvam-oliveira](https://www.linkedin.com/in/gilvam-oliveira/)
+Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/) · [GitHub](https://github.com/GilvamOliveira)
