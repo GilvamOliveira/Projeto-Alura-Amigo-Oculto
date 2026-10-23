@@ -3,6 +3,10 @@
   Uma aplicação web simples e divertida para realizar sorteios de Amigo Secreto.
   O sistema garante que não haja repetição de nomes e que cada amigo só seja sorteado uma vez.
 
+📽️ Demonstração
+
+  ![Demonstração do Amigo Secreto](demo/amigo-secreto.gif)
+
 🚀 Funcionalidades
 
   •	✅ Adicionar e remover amigos da lista
@@ -29,7 +33,7 @@
 ▶️ Como usar
 
   1.	Clone este repositório:
-    git clone https://github.com/GilvamOliveira/Projeto-Alura-Amigo-Oculto/tree/main/Challenge_Amigo_Secreto
+    git clone https://github.com/GilvamOliveira/Projeto-Alura-Amigo-Oculto.git
   2.	Abra o arquivo index.html no navegador.
   3.	Digite os nomes dos participantes e clique em Adicionar.
   4.	Quando todos estiverem na lista, clique em Sortear amigo.
