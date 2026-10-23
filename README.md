@@ -2,6 +2,10 @@
 
 Aplicação web para realizar sorteios de amigo secreto, com validação de nomes duplicados e sorteio sem repetição.
 
+[![Deploy site](https://github.com/GilvamOliveira/Projeto-Alura-Amigo-Oculto/actions/workflows/pages.yml/badge.svg)](https://github.com/GilvamOliveira/Projeto-Alura-Amigo-Oculto/actions/workflows/pages.yml)
+
+**Demo online:** https://gilvamoliveira.github.io/Projeto-Alura-Amigo-Oculto/
+
 ![Demonstração do Amigo Secreto](demo/amigo-secreto.gif)
 
 ## Funcionalidades
